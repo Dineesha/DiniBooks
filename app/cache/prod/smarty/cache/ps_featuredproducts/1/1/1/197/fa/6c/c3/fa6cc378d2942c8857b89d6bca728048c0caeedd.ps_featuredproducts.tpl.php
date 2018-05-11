@@ -23,45 +23,40 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'nocache_hash' => '18851855085af2cf3d1af024-86725313',
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5af3c40e5ee174_69879233',
+  'unifunc' => 'content_5af4171527b780_09238377',
   'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5af3c40e5ee174_69879233')) {function content_5af3c40e5ee174_69879233($_smarty_tpl) {?><section class="featured-products clearfix">
+<?php if ($_valid && !is_callable('content_5af4171527b780_09238377')) {function content_5af4171527b780_09238377($_smarty_tpl) {?><section class="featured-products clearfix">
   <h1 class="h1 products-section-title text-uppercase">
     Popular Products
   </h1>
   <div class="products">
           
-  <article class="product-miniature js-product-miniature" data-id-product="1" data-id-product-attribute="1" itemscope itemtype="http://schema.org/Product">
+  <article class="product-miniature js-product-miniature" data-id-product="20" data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
     <div class="thumbnail-container">
       
-        <a href="http://127.0.0.1/prestashop/men/1-1-hummingbird-printed-t-shirt.html#/1-size-s/8-color-white" class="thumbnail product-thumbnail">
+        <a href="http://127.0.0.1/prestashop/home/20-criminological-and-forensic-psychology.html" class="thumbnail product-thumbnail">
           <img
-            src = "http://127.0.0.1/prestashop/2-home_default/hummingbird-printed-t-shirt.jpg"
-            alt = "Hummingbird printed t-shirt"
-            data-full-size-image-url = "http://127.0.0.1/prestashop/2-large_default/hummingbird-printed-t-shirt.jpg"
+            src = "http://127.0.0.1/prestashop/24-home_default/criminological-and-forensic-psychology.jpg"
+            alt = "Criminological and Forensic..."
+            data-full-size-image-url = "http://127.0.0.1/prestashop/24-large_default/criminological-and-forensic-psychology.jpg"
           >
         </a>
       
 
       <div class="product-description">
         
-          <h1 class="h3 product-title" itemprop="name"><a href="http://127.0.0.1/prestashop/men/1-1-hummingbird-printed-t-shirt.html#/1-size-s/8-color-white">Hummingbird printed t-shirt</a></h1>
+          <h1 class="h3 product-title" itemprop="name"><a href="http://127.0.0.1/prestashop/home/20-criminological-and-forensic-psychology.html">Criminological and Forensic...</a></h1>
         
 
         
                       <div class="product-price-and-shipping">
-                              
-
-                <span class="sr-only">Regular price</span>
-                <span class="regular-price">€23.90</span>
-                                  <span class="discount-percentage discount-product">-20%</span>
-                              
+              
               
 
               <span class="sr-only">Price</span>
-              <span itemprop="price" class="price">€19.12</span>
+              <span itemprop="price" class="price">€18.00</span>
 
               
 
@@ -76,84 +71,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 
       
         <ul class="product-flags">
-                      <li class="product-flag discount">Reduced price</li>
-                      <li class="product-flag new">New</li>
-                  </ul>
-      
-
-      <div class="highlighted-informations hidden-sm-down">
-        
-          <a class="quick-view" href="#" data-link-action="quickview">
-            <i class="material-icons search">&#xE8B6;</i> Quick view
-          </a>
-        
-
-        
-                      <div class="variant-links">
-      <a href="http://127.0.0.1/prestashop/men/1-1-hummingbird-printed-t-shirt.html#/1-size-s/8-color-white"
-       class="color"
-       title="White"
-       
-       style="background-color: #ffffff"           ><span class="sr-only">White</span></a>
-      <a href="http://127.0.0.1/prestashop/men/1-2-hummingbird-printed-t-shirt.html#/1-size-s/11-color-black"
-       class="color"
-       title="Black"
-       
-       style="background-color: #434A54"           ><span class="sr-only">Black</span></a>
-    <span class="js-count count"></span>
-</div>
-                  
-      </div>
-
-    </div>
-  </article>
-
-
-          
-  <article class="product-miniature js-product-miniature" data-id-product="2" data-id-product-attribute="9" itemscope itemtype="http://schema.org/Product">
-    <div class="thumbnail-container">
-      
-        <a href="http://127.0.0.1/prestashop/home/2-9-brown-bear-printed-sweater.html#/1-size-s" class="thumbnail product-thumbnail">
-          <img
-            src = "http://127.0.0.1/prestashop/21-home_default/brown-bear-printed-sweater.jpg"
-            alt = "Brown bear printed sweater"
-            data-full-size-image-url = "http://127.0.0.1/prestashop/21-large_default/brown-bear-printed-sweater.jpg"
-          >
-        </a>
-      
-
-      <div class="product-description">
-        
-          <h1 class="h3 product-title" itemprop="name"><a href="http://127.0.0.1/prestashop/home/2-9-brown-bear-printed-sweater.html#/1-size-s">Hummingbird printed sweater</a></h1>
-        
-
-        
-                      <div class="product-price-and-shipping">
-                              
-
-                <span class="sr-only">Regular price</span>
-                <span class="regular-price">€35.90</span>
-                                  <span class="discount-percentage discount-product">-20%</span>
-                              
-              
-
-              <span class="sr-only">Price</span>
-              <span itemprop="price" class="price">€28.72</span>
-
-              
-
-              
-            </div>
-                  
-
-        
-          
-        
-      </div>
-
-      
-        <ul class="product-flags">
-                      <li class="product-flag discount">Reduced price</li>
+                      <li class="product-flag on-sale">On sale!</li>
                       <li class="product-flag new">New</li>
                   </ul>
       
@@ -174,21 +92,21 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 
 
           
-  <article class="product-miniature js-product-miniature" data-id-product="3" data-id-product-attribute="13" itemscope itemtype="http://schema.org/Product">
+  <article class="product-miniature js-product-miniature" data-id-product="21" data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
     <div class="thumbnail-container">
       
-        <a href="http://127.0.0.1/prestashop/art/3-13-the-best-is-yet-to-come-framed-poster.html#/19-dimension-40x60cm" class="thumbnail product-thumbnail">
+        <a href="http://127.0.0.1/prestashop/home/21-pro-java-programming.html" class="thumbnail product-thumbnail">
           <img
-            src = "http://127.0.0.1/prestashop/3-home_default/the-best-is-yet-to-come-framed-poster.jpg"
-            alt = "The best is yet to come&#039; Framed poster"
-            data-full-size-image-url = "http://127.0.0.1/prestashop/3-large_default/the-best-is-yet-to-come-framed-poster.jpg"
+            src = "http://127.0.0.1/prestashop/25-home_default/pro-java-programming.jpg"
+            alt = "Pro Java Programming"
+            data-full-size-image-url = "http://127.0.0.1/prestashop/25-large_default/pro-java-programming.jpg"
           >
         </a>
       
 
       <div class="product-description">
         
-          <h1 class="h3 product-title" itemprop="name"><a href="http://127.0.0.1/prestashop/art/3-13-the-best-is-yet-to-come-framed-poster.html#/19-dimension-40x60cm">The best is yet to come&#039;...</a></h1>
+          <h1 class="h3 product-title" itemprop="name"><a href="http://127.0.0.1/prestashop/home/21-pro-java-programming.html">Pro Java Programming</a></h1>
         
 
         
@@ -197,7 +115,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
               
 
               <span class="sr-only">Price</span>
-              <span itemprop="price" class="price">€29.00</span>
+              <span itemprop="price" class="price">€8.00</span>
 
               
 
@@ -232,21 +150,21 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 
 
           
-  <article class="product-miniature js-product-miniature" data-id-product="4" data-id-product-attribute="16" itemscope itemtype="http://schema.org/Product">
+  <article class="product-miniature js-product-miniature" data-id-product="22" data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
     <div class="thumbnail-container">
       
-        <a href="http://127.0.0.1/prestashop/home/4-16-the-adventure-begins-framed-poster.html#/19-dimension-40x60cm" class="thumbnail product-thumbnail">
+        <a href="http://127.0.0.1/prestashop/home/22-dream-psychology.html" class="thumbnail product-thumbnail">
           <img
-            src = "http://127.0.0.1/prestashop/4-home_default/the-adventure-begins-framed-poster.jpg"
-            alt = "The adventure begins Framed poster"
-            data-full-size-image-url = "http://127.0.0.1/prestashop/4-large_default/the-adventure-begins-framed-poster.jpg"
+            src = "http://127.0.0.1/prestashop/26-home_default/dream-psychology.jpg"
+            alt = "Dream Psychology"
+            data-full-size-image-url = "http://127.0.0.1/prestashop/26-large_default/dream-psychology.jpg"
           >
         </a>
       
 
       <div class="product-description">
         
-          <h1 class="h3 product-title" itemprop="name"><a href="http://127.0.0.1/prestashop/home/4-16-the-adventure-begins-framed-poster.html#/19-dimension-40x60cm">The adventure begins Framed...</a></h1>
+          <h1 class="h3 product-title" itemprop="name"><a href="http://127.0.0.1/prestashop/home/22-dream-psychology.html">Dream Psychology</a></h1>
         
 
         
@@ -255,7 +173,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
               
 
               <span class="sr-only">Price</span>
-              <span itemprop="price" class="price">€29.00</span>
+              <span itemprop="price" class="price">€12.00</span>
 
               
 
@@ -290,21 +208,21 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 
 
           
-  <article class="product-miniature js-product-miniature" data-id-product="5" data-id-product-attribute="19" itemscope itemtype="http://schema.org/Product">
+  <article class="product-miniature js-product-miniature" data-id-product="23" data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
     <div class="thumbnail-container">
       
-        <a href="http://127.0.0.1/prestashop/art/5-19-today-is-a-good-day-framed-poster.html#/19-dimension-40x60cm" class="thumbnail product-thumbnail">
+        <a href="http://127.0.0.1/prestashop/home/23-mahawanshaya.html" class="thumbnail product-thumbnail">
           <img
-            src = "http://127.0.0.1/prestashop/5-home_default/today-is-a-good-day-framed-poster.jpg"
-            alt = "Today is a good day Framed poster"
-            data-full-size-image-url = "http://127.0.0.1/prestashop/5-large_default/today-is-a-good-day-framed-poster.jpg"
+            src = "http://127.0.0.1/prestashop/27-home_default/mahawanshaya.jpg"
+            alt = "Mahawanshaya"
+            data-full-size-image-url = "http://127.0.0.1/prestashop/27-large_default/mahawanshaya.jpg"
           >
         </a>
       
 
       <div class="product-description">
         
-          <h1 class="h3 product-title" itemprop="name"><a href="http://127.0.0.1/prestashop/art/5-19-today-is-a-good-day-framed-poster.html#/19-dimension-40x60cm">Today is a good day Framed...</a></h1>
+          <h1 class="h3 product-title" itemprop="name"><a href="http://127.0.0.1/prestashop/home/23-mahawanshaya.html">Mahawanshaya</a></h1>
         
 
         
@@ -313,7 +231,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
               
 
               <span class="sr-only">Price</span>
-              <span itemprop="price" class="price">€29.00</span>
+              <span itemprop="price" class="price">€15.00</span>
 
               
 
@@ -348,21 +266,21 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 
 
           
-  <article class="product-miniature js-product-miniature" data-id-product="6" data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
+  <article class="product-miniature js-product-miniature" data-id-product="24" data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
     <div class="thumbnail-container">
       
-        <a href="http://127.0.0.1/prestashop/home-accessories/6-mug-the-best-is-yet-to-come.html" class="thumbnail product-thumbnail">
+        <a href="http://127.0.0.1/prestashop/home/24-computer-science-handbook-second-edition.html" class="thumbnail product-thumbnail">
           <img
-            src = "http://127.0.0.1/prestashop/6-home_default/mug-the-best-is-yet-to-come.jpg"
-            alt = "Mug The best is yet to come"
-            data-full-size-image-url = "http://127.0.0.1/prestashop/6-large_default/mug-the-best-is-yet-to-come.jpg"
+            src = "http://127.0.0.1/prestashop/28-home_default/computer-science-handbook-second-edition.jpg"
+            alt = "Computer Science..."
+            data-full-size-image-url = "http://127.0.0.1/prestashop/28-large_default/computer-science-handbook-second-edition.jpg"
           >
         </a>
       
 
       <div class="product-description">
         
-          <h1 class="h3 product-title" itemprop="name"><a href="http://127.0.0.1/prestashop/home-accessories/6-mug-the-best-is-yet-to-come.html">Mug The best is yet to come</a></h1>
+          <h1 class="h3 product-title" itemprop="name"><a href="http://127.0.0.1/prestashop/home/24-computer-science-handbook-second-edition.html">Computer Science...</a></h1>
         
 
         
@@ -371,7 +289,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
               
 
               <span class="sr-only">Price</span>
-              <span itemprop="price" class="price">€11.90</span>
+              <span itemprop="price" class="price">€10.00</span>
 
               
 
@@ -406,21 +324,21 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 
 
           
-  <article class="product-miniature js-product-miniature" data-id-product="7" data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
+  <article class="product-miniature js-product-miniature" data-id-product="25" data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
     <div class="thumbnail-container">
       
-        <a href="http://127.0.0.1/prestashop/home-accessories/7-mug-the-adventure-begins.html" class="thumbnail product-thumbnail">
+        <a href="http://127.0.0.1/prestashop/home/25-the-computer-science-and-engineering-handbook.html" class="thumbnail product-thumbnail">
           <img
-            src = "http://127.0.0.1/prestashop/7-home_default/mug-the-adventure-begins.jpg"
-            alt = "Mug The adventure begins"
-            data-full-size-image-url = "http://127.0.0.1/prestashop/7-large_default/mug-the-adventure-begins.jpg"
+            src = "http://127.0.0.1/prestashop/29-home_default/the-computer-science-and-engineering-handbook.jpg"
+            alt = "The Computer Science and..."
+            data-full-size-image-url = "http://127.0.0.1/prestashop/29-large_default/the-computer-science-and-engineering-handbook.jpg"
           >
         </a>
       
 
       <div class="product-description">
         
-          <h1 class="h3 product-title" itemprop="name"><a href="http://127.0.0.1/prestashop/home-accessories/7-mug-the-adventure-begins.html">Mug The adventure begins</a></h1>
+          <h1 class="h3 product-title" itemprop="name"><a href="http://127.0.0.1/prestashop/home/25-the-computer-science-and-engineering-handbook.html">The Computer Science and...</a></h1>
         
 
         
@@ -429,7 +347,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
               
 
               <span class="sr-only">Price</span>
-              <span itemprop="price" class="price">€11.90</span>
+              <span itemprop="price" class="price">€10.00</span>
 
               
 
@@ -464,21 +382,21 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 
 
           
-  <article class="product-miniature js-product-miniature" data-id-product="8" data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
+  <article class="product-miniature js-product-miniature" data-id-product="26" data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
     <div class="thumbnail-container">
       
-        <a href="http://127.0.0.1/prestashop/home/8-mug-today-is-a-good-day.html" class="thumbnail product-thumbnail">
+        <a href="http://127.0.0.1/prestashop/home/26-brain-rules.html" class="thumbnail product-thumbnail">
           <img
-            src = "http://127.0.0.1/prestashop/8-home_default/mug-today-is-a-good-day.jpg"
-            alt = "Mug Today is a good day"
-            data-full-size-image-url = "http://127.0.0.1/prestashop/8-large_default/mug-today-is-a-good-day.jpg"
+            src = "http://127.0.0.1/prestashop/30-home_default/brain-rules.jpg"
+            alt = "Brain Rules"
+            data-full-size-image-url = "http://127.0.0.1/prestashop/30-large_default/brain-rules.jpg"
           >
         </a>
       
 
       <div class="product-description">
         
-          <h1 class="h3 product-title" itemprop="name"><a href="http://127.0.0.1/prestashop/home/8-mug-today-is-a-good-day.html">Mug Today is a good day</a></h1>
+          <h1 class="h3 product-title" itemprop="name"><a href="http://127.0.0.1/prestashop/home/26-brain-rules.html">Brain Rules</a></h1>
         
 
         
@@ -487,7 +405,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
               
 
               <span class="sr-only">Price</span>
-              <span itemprop="price" class="price">€11.90</span>
+              <span itemprop="price" class="price">€30.00</span>
 
               
 
@@ -502,6 +420,65 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 
       
         <ul class="product-flags">
+                      <li class="product-flag new">New</li>
+                  </ul>
+      
+
+      <div class="highlighted-informations no-variants hidden-sm-down">
+        
+          <a class="quick-view" href="#" data-link-action="quickview">
+            <i class="material-icons search">&#xE8B6;</i> Quick view
+          </a>
+        
+
+        
+                  
+      </div>
+
+    </div>
+  </article>
+
+
+          
+  <article class="product-miniature js-product-miniature" data-id-product="27" data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
+    <div class="thumbnail-container">
+      
+        <a href="http://127.0.0.1/prestashop/home/27-critical-thinking-of-psychology.html" class="thumbnail product-thumbnail">
+          <img
+            src = "http://127.0.0.1/prestashop/31-home_default/critical-thinking-of-psychology.jpg"
+            alt = "Critical Thinking of..."
+            data-full-size-image-url = "http://127.0.0.1/prestashop/31-large_default/critical-thinking-of-psychology.jpg"
+          >
+        </a>
+      
+
+      <div class="product-description">
+        
+          <h1 class="h3 product-title" itemprop="name"><a href="http://127.0.0.1/prestashop/home/27-critical-thinking-of-psychology.html">Critical Thinking of...</a></h1>
+        
+
+        
+                      <div class="product-price-and-shipping">
+              
+              
+
+              <span class="sr-only">Price</span>
+              <span itemprop="price" class="price">€12.00</span>
+
+              
+
+              
+            </div>
+                  
+
+        
+          
+        
+      </div>
+
+      
+        <ul class="product-flags">
+                      <li class="product-flag online-only">Online only</li>
                       <li class="product-flag new">New</li>
                   </ul>
       
