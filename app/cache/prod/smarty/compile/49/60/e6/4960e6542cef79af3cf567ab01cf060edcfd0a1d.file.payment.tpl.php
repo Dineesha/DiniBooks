@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2018-05-09 17:16:52
+<?php /* Smarty version Smarty-3.1.19, created on 2018-05-16 12:08:59
          compiled from "/opt/lampp/htdocs/prestashop/themes/classic/templates/checkout/_partials/steps/payment.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:19390121665af2dfaceb7255-62644325%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:15774121945afbd20320a4b9-32209814%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -35,7 +35,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '19390121665af2dfaceb7255-62644325',
+  'nocache_hash' => '15774121945afbd20320a4b9-32209814',
   'function' => 
   array (
   ),
@@ -50,9 +50,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5af2dfacf23ee8_14756524',
+  'unifunc' => 'content_5afbd2032761e3_56283157',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5af2dfacf23ee8_14756524')) {function content_5af2dfacf23ee8_14756524($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_5afbd2032761e3_56283157')) {function content_5afbd2032761e3_56283157($_smarty_tpl) {?>
 
   <section  id    = "<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['identifier']->value, ENT_QUOTES, 'UTF-8');?>
 "
@@ -228,8 +228,8 @@ $_smarty_tpl->tpl_vars["condition"]->_loop = true;
   <?php if ($_smarty_tpl->tpl_vars['show_final_summary']->value) {?>
     <?php /*  Call merged included template "checkout/_partials/order-final-summary.tpl" */
 $_tpl_stack[] = $_smarty_tpl;
- $_smarty_tpl = $_smarty_tpl->setupInlineSubTemplate('checkout/_partials/order-final-summary.tpl', $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, null, array(), 0, '19390121665af2dfaceb7255-62644325');
-content_5af2dfacef9845_78745631($_smarty_tpl);
+ $_smarty_tpl = $_smarty_tpl->setupInlineSubTemplate('checkout/_partials/order-final-summary.tpl', $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, null, array(), 0, '15774121945afbd20320a4b9-32209814');
+content_5afbd2032494f4_17616038($_smarty_tpl);
 $_smarty_tpl = array_pop($_tpl_stack); 
 /*  End of included template "checkout/_partials/order-final-summary.tpl" */?>
   <?php }?>
@@ -275,9 +275,9 @@ $_smarty_tpl = array_pop($_tpl_stack);
   </section>
 
 <?php }} ?>
-<?php /* Smarty version Smarty-3.1.19, created on 2018-05-09 17:16:52
+<?php /* Smarty version Smarty-3.1.19, created on 2018-05-16 12:08:59
          compiled from "/opt/lampp/htdocs/prestashop/themes/classic/templates/checkout/_partials/order-final-summary.tpl" */ ?>
-<?php if ($_valid && !is_callable('content_5af2dfacef9845_78745631')) {function content_5af2dfacef9845_78745631($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_5afbd2032494f4_17616038')) {function content_5afbd2032494f4_17616038($_smarty_tpl) {?>
 <section id="order-summary-content" class="page-content page-order-confirmation">
   <div class="row">
     <div class="col-md-12">
@@ -362,17 +362,17 @@ $_smarty_tpl = array_pop($_tpl_stack);
     
       <?php /*  Call merged included template "checkout/_partials/order-final-summary-table.tpl" */
 $_tpl_stack[] = $_smarty_tpl;
- $_smarty_tpl = $_smarty_tpl->setupInlineSubTemplate('checkout/_partials/order-final-summary-table.tpl', $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, null, array('products'=>$_smarty_tpl->tpl_vars['cart']->value['products'],'products_count'=>$_smarty_tpl->tpl_vars['cart']->value['products_count'],'subtotals'=>$_smarty_tpl->tpl_vars['cart']->value['subtotals'],'totals'=>$_smarty_tpl->tpl_vars['cart']->value['totals'],'labels'=>$_smarty_tpl->tpl_vars['cart']->value['labels'],'add_product_link'=>true), 0, '19390121665af2dfaceb7255-62644325');
-content_5af2dfacf047a8_40465744($_smarty_tpl);
+ $_smarty_tpl = $_smarty_tpl->setupInlineSubTemplate('checkout/_partials/order-final-summary-table.tpl', $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, null, array('products'=>$_smarty_tpl->tpl_vars['cart']->value['products'],'products_count'=>$_smarty_tpl->tpl_vars['cart']->value['products_count'],'subtotals'=>$_smarty_tpl->tpl_vars['cart']->value['subtotals'],'totals'=>$_smarty_tpl->tpl_vars['cart']->value['totals'],'labels'=>$_smarty_tpl->tpl_vars['cart']->value['labels'],'add_product_link'=>true), 0, '15774121945afbd20320a4b9-32209814');
+content_5afbd2032557e9_12452289($_smarty_tpl);
 $_smarty_tpl = array_pop($_tpl_stack); 
 /*  End of included template "checkout/_partials/order-final-summary-table.tpl" */?>
     
   </div>
 </section>
 <?php }} ?>
-<?php /* Smarty version Smarty-3.1.19, created on 2018-05-09 17:16:52
+<?php /* Smarty version Smarty-3.1.19, created on 2018-05-16 12:08:59
          compiled from "/opt/lampp/htdocs/prestashop/themes/classic/templates/checkout/_partials/order-final-summary-table.tpl" */ ?>
-<?php if ($_valid && !is_callable('content_5af2dfacf047a8_40465744')) {function content_5af2dfacf047a8_40465744($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_5afbd2032557e9_12452289')) {function content_5afbd2032557e9_12452289($_smarty_tpl) {?>
 <div id="order-items" class="col-md-12">
 
   

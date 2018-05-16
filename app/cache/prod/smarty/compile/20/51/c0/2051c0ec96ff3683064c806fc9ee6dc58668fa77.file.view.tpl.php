@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2018-05-10 09:36:07
+<?php /* Smarty version Smarty-3.1.19, created on 2018-05-16 11:40:51
          compiled from "/opt/lampp/htdocs/prestashop/admin5301xfosj/themes/default/template/controllers/payment_preferences/helpers/view/view.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:7826130245af3c52f335364-54789516%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:9107327845afbcb6b0ae947-21491297%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -23,7 +23,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '7826130245af3c52f335364-54789516',
+  'nocache_hash' => '9107327845afbcb6b0ae947-21491297',
   'function' => 
   array (
   ),
@@ -34,9 +34,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5af3c52f3ba1a9_34058898',
+  'unifunc' => 'content_5afbcb6b12c277_73291275',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5af3c52f3ba1a9_34058898')) {function content_5af3c52f3ba1a9_34058898($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_5afbcb6b12c277_73291275')) {function content_5afbcb6b12c277_73291275($_smarty_tpl) {?>
 
 <div class="leadin"></div>
 
@@ -65,8 +65,8 @@ $_smarty_tpl->tpl_vars['list']->_loop = true;
 ?>
 				<?php /*  Call merged included template "controllers/payment_preferences/restrictions.tpl" */
 $_tpl_stack[] = $_smarty_tpl;
- $_smarty_tpl = $_smarty_tpl->setupInlineSubTemplate('controllers/payment_preferences/restrictions.tpl', $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, null, array(), 0, '7826130245af3c52f335364-54789516');
-content_5af3c52f385055_89082654($_smarty_tpl);
+ $_smarty_tpl = $_smarty_tpl->setupInlineSubTemplate('controllers/payment_preferences/restrictions.tpl', $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, null, array(), 0, '9107327845afbcb6b0ae947-21491297');
+content_5afbcb6b0e05b0_98510649($_smarty_tpl);
 $_smarty_tpl = array_pop($_tpl_stack); 
 /*  End of included template "controllers/payment_preferences/restrictions.tpl" */?>
 			<?php } ?>
@@ -101,9 +101,9 @@ if (!empty($_capture_buffer)) {
 
 <?php }?>
 <?php }} ?>
-<?php /* Smarty version Smarty-3.1.19, created on 2018-05-10 09:36:07
+<?php /* Smarty version Smarty-3.1.19, created on 2018-05-16 11:40:51
          compiled from "/opt/lampp/htdocs/prestashop/admin5301xfosj/themes/default/template/controllers/payment_preferences/restrictions.tpl" */ ?>
-<?php if ($_valid && !is_callable('content_5af3c52f385055_89082654')) {function content_5af3c52f385055_89082654($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_5afbcb6b0e05b0_98510649')) {function content_5afbcb6b0e05b0_98510649($_smarty_tpl) {?>
 
 <form action="<?php echo $_smarty_tpl->smarty->registered_plugins[Smarty::PLUGIN_MODIFIER]['escape'][0][0]->smartyEscape($_smarty_tpl->tpl_vars['url_submit']->value,'html','UTF-8');?>
 " method="post" id="form_<?php echo $_smarty_tpl->tpl_vars['list']->value['name_id'];?>

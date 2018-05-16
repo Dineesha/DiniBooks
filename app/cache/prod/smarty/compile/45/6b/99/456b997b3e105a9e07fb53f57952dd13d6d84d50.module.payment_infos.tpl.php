@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2018-05-09 17:11:24
+<?php /* Smarty version Smarty-3.1.19, created on 2018-05-16 12:20:51
          compiled from "module:ps_checkpayment/views/templates/front/payment_infos.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:8363004695af2de64ed74d8-10145617%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:8458821375afbd4cb443067-25967275%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'module',
     ),
   ),
-  'nocache_hash' => '8363004695af2de64ed74d8-10145617',
+  'nocache_hash' => '8458821375afbd4cb443067-25967275',
   'function' => 
   array (
   ),
@@ -23,9 +23,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5af2de64edb1d9_73436866',
+  'unifunc' => 'content_5afbd4cb465298_16061636',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5af2de64edb1d9_73436866')) {function content_5af2de64edb1d9_73436866($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_5afbd4cb465298_16061636')) {function content_5afbd4cb465298_16061636($_smarty_tpl) {?>
 
 <section>
   <p><?php echo smartyTranslate(array('s'=>'Please send us your check following these rules:','d'=>'Modules.Checkpayment.Shop'),$_smarty_tpl);?>

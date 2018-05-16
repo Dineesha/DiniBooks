@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2018-05-14 10:36:00
+<?php /* Smarty version Smarty-3.1.19, created on 2018-05-16 10:36:27
          compiled from "/opt/lampp/htdocs/prestashop/themes/classic/templates/customer/_partials/login-form.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:13831533595af91938662421-83786352%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:16361485045afbbc537dc2b9-14023299%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -17,7 +17,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '13831533595af91938662421-83786352',
+  'nocache_hash' => '16361485045afbbc537dc2b9-14023299',
   'function' => 
   array (
   ),
@@ -31,16 +31,16 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5af91938670577_88328805',
+  'unifunc' => 'content_5afbbc537ea845_74850008',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5af91938670577_88328805')) {function content_5af91938670577_88328805($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_5afbbc537ea845_74850008')) {function content_5afbbc537ea845_74850008($_smarty_tpl) {?>
 
 
   
     <?php /*  Call merged included template "_partials/form-errors.tpl" */
 $_tpl_stack[] = $_smarty_tpl;
- $_smarty_tpl = $_smarty_tpl->setupInlineSubTemplate('_partials/form-errors.tpl', $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, null, array('errors'=>$_smarty_tpl->tpl_vars['errors']->value['']), 0, '13831533595af91938662421-83786352');
-content_5af91938665191_58713112($_smarty_tpl);
+ $_smarty_tpl = $_smarty_tpl->setupInlineSubTemplate('_partials/form-errors.tpl', $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, null, array('errors'=>$_smarty_tpl->tpl_vars['errors']->value['']), 0, '16361485045afbbc537dc2b9-14023299');
+content_5afbbc537df2e5_58733935($_smarty_tpl);
 $_smarty_tpl = array_pop($_tpl_stack); 
 /*  End of included template "_partials/form-errors.tpl" */?>
   
@@ -85,9 +85,9 @@ $_smarty_tpl->tpl_vars["field"]->_loop = true;
   </form>
 
 <?php }} ?>
-<?php /* Smarty version Smarty-3.1.19, created on 2018-05-14 10:36:00
+<?php /* Smarty version Smarty-3.1.19, created on 2018-05-16 10:36:27
          compiled from "/opt/lampp/htdocs/prestashop/themes/classic/templates/_partials/form-errors.tpl" */ ?>
-<?php if ($_valid && !is_callable('content_5af91938665191_58713112')) {function content_5af91938665191_58713112($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_5afbbc537df2e5_58733935')) {function content_5afbbc537df2e5_58733935($_smarty_tpl) {?>
 <?php if (count($_smarty_tpl->tpl_vars['errors']->value)) {?>
   <div class="help-block">
     

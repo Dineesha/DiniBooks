@@ -1,4 +1,4 @@
-<?php /*%%SmartyHeaderCode:8101191035af2cf3d2eda29-72666907%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:5066448775af947b502d203-17871076%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -9,17 +9,17 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'module',
     ),
   ),
-  'nocache_hash' => '8101191035af2cf3d2eda29-72666907',
+  'nocache_hash' => '5066448775af947b502d203-17871076',
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5af920ba0d5e94_76162509',
+  'unifunc' => 'content_5afbbde5d5ab69_89943752',
   'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5af920ba0d5e94_76162509')) {function content_5af920ba0d5e94_76162509($_smarty_tpl) {?><div class="col-md-4 links">
+<?php if ($_valid && !is_callable('content_5afbbde5d5ab69_89943752')) {function content_5afbbde5d5ab69_89943752($_smarty_tpl) {?><div class="col-md-4 links">
   <div class="row">
       <div class="col-md-6 wrapper">
       <h3 class="h3 hidden-sm-down">Products</h3>
-            <div class="title clearfix hidden-md-up" data-target="#footer_sub_menu_44901" data-toggle="collapse">
+            <div class="title clearfix hidden-md-up" data-target="#footer_sub_menu_99701" data-toggle="collapse">
         <span class="h3">Products</span>
         <span class="float-xs-right">
           <span class="navbar-toggler collapse-icons">
@@ -28,17 +28,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
           </span>
         </span>
       </div>
-      <ul id="footer_sub_menu_44901" class="collapse">
-                  <li>
-            <a
-                id="link-product-page-prices-drop-1"
-                class="cms-page-link"
-                href="http://127.0.0.1/prestashop/prices-drop"
-                title="Our special products"
-                            >
-              Prices drop
-            </a>
-          </li>
+      <ul id="footer_sub_menu_99701" class="collapse">
                   <li>
             <a
                 id="link-product-page-new-products-1"
@@ -49,21 +39,11 @@ $_valid = $_smarty_tpl->decodeProperties(array (
               New products
             </a>
           </li>
-                  <li>
-            <a
-                id="link-product-page-best-sales-1"
-                class="cms-page-link"
-                href="http://127.0.0.1/prestashop/best-sales"
-                title="Our best sales"
-                            >
-              Best sales
-            </a>
-          </li>
               </ul>
     </div>
       <div class="col-md-6 wrapper">
       <h3 class="h3 hidden-sm-down">Our company</h3>
-            <div class="title clearfix hidden-md-up" data-target="#footer_sub_menu_23312" data-toggle="collapse">
+            <div class="title clearfix hidden-md-up" data-target="#footer_sub_menu_91748" data-toggle="collapse">
         <span class="h3">Our company</span>
         <span class="float-xs-right">
           <span class="navbar-toggler collapse-icons">
@@ -72,7 +52,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
           </span>
         </span>
       </div>
-      <ul id="footer_sub_menu_23312" class="collapse">
+      <ul id="footer_sub_menu_91748" class="collapse">
                   <li>
             <a
                 id="link-cms-page-1-2"
