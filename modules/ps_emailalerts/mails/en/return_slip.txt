@@ -5,9 +5,9 @@ Hi,
 
 You have received a new return request for {shop_name}. 
 
-Return Details 
+Return details 
 
-ORDER: {order_name} placed on {date}
+ORDER: {order_name} Placed on {date}
 
 CUSTOMER: {firstname} {lastname}, ({email}) 
 
