@@ -1,4 +1,4 @@
-<?php /*%%SmartyHeaderCode:17943098675af947b503bd37-72349392%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:1231970365b038d19e2fac7-35002908%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -9,13 +9,19 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'module',
     ),
   ),
-  'nocache_hash' => '17943098675af947b503bd37-72349392',
-  'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5afbde6acae130_43617572',
+  'nocache_hash' => '1231970365b038d19e2fac7-35002908',
+  'variables' => 
+  array (
+    'urls' => 0,
+    'my_account_urls' => 0,
+    'my_account_url' => 0,
+  ),
   'has_nocache_code' => false,
+  'version' => 'Smarty-3.1.19',
+  'unifunc' => 'content_5b038d19e429d1_72662081',
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5afbde6acae130_43617572')) {function content_5afbde6acae130_43617572($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_5b038d19e429d1_72662081')) {function content_5b038d19e429d1_72662081($_smarty_tpl) {?>
 <div id="block_myaccount_infos" class="col-md-2 links wrapper">
   <h3 class="myaccount-title hidden-sm-down">
     <a class="text-uppercase" href="http://127.0.0.1/prestashop/en/my-account" rel="nofollow">
@@ -52,7 +58,18 @@ $_valid = $_smarty_tpl->decodeProperties(array (
             Addresses
           </a>
         </li>
+            <li>
+          <a href="http://127.0.0.1/prestashop/en/discount" title="Vouchers" rel="nofollow">
+            Vouchers
+          </a>
+        </li>
         
+<li>
+  <a href="//127.0.0.1/prestashop/en/module/ps_emailalerts/account" title="My alerts">
+    My alerts
+  </a>
+</li>
+
 	</ul>
 </div>
 <?php }} ?>

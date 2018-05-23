@@ -1,4 +1,4 @@
-<?php /*%%SmartyHeaderCode:15480190125af9588a857709-24314903%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:14388707745b038d1793cc27-16442062%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -9,13 +9,18 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'module',
     ),
   ),
-  'nocache_hash' => '15480190125af9588a857709-24314903',
-  'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5afcf221c8a882_05782270',
+  'nocache_hash' => '14388707745b038d1793cc27-16442062',
+  'variables' => 
+  array (
+    'homeslider' => 0,
+    'slide' => 0,
+  ),
   'has_nocache_code' => false,
+  'version' => 'Smarty-3.1.19',
+  'unifunc' => 'content_5b038d1798a389_18056633',
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5afcf221c8a882_05782270')) {function content_5afcf221c8a882_05782270($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_5b038d1798a389_18056633')) {function content_5b038d1798a389_18056633($_smarty_tpl) {?>
   <div id="carousel" data-ride="carousel" class="carousel slide" data-interval="5000" data-wrap="true" data-pause="hover">
     <ul class="carousel-inner" role="listbox">
               <li class="carousel-item active" role="option" aria-hidden="false">

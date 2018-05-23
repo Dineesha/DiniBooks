@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2018-05-16 12:05:14
+<?php /* Smarty version Smarty-3.1.19, created on 2018-05-22 11:44:03
          compiled from "/opt/lampp/htdocs/prestashop/modules/gamification/views/templates/admin/gamification/helpers/view/filters_bt.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:1496942045afbd122d580c6-19263415%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:19102551455b03b52b01b4f7-81411672%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '1496942045afbd122d580c6-19263415',
+  'nocache_hash' => '19102551455b03b52b01b4f7-81411672',
   'function' => 
   array (
   ),
@@ -27,9 +27,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5afbd122d69195_97294799',
+  'unifunc' => 'content_5b03b52b02c539_92984599',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5afbd122d69195_97294799')) {function content_5afbd122d69195_97294799($_smarty_tpl) {?><?php if (isset($_smarty_tpl->tpl_vars['type']->value)) {?>
+<?php if ($_valid && !is_callable('content_5b03b52b02c539_92984599')) {function content_5b03b52b02c539_92984599($_smarty_tpl) {?><?php if (isset($_smarty_tpl->tpl_vars['type']->value)) {?>
 <form class="form-horizontal well" role="form">
 	<?php if ($_smarty_tpl->tpl_vars['type']->value=='badges_feature'||$_smarty_tpl->tpl_vars['type']->value=='badges_achievement') {?>
 		<div class="form-group">

@@ -1,4 +1,4 @@
-<?php /*%%SmartyHeaderCode:5066448775af947b502d203-17871076%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:12070678445b038d19ddf323-05183219%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -9,17 +9,24 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'module',
     ),
   ),
-  'nocache_hash' => '5066448775af947b502d203-17871076',
-  'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5afbde6aca9bc4_53838077',
+  'nocache_hash' => '12070678445b038d19ddf323-05183219',
+  'variables' => 
+  array (
+    'linkBlocks' => 0,
+    'linkBlock' => 0,
+    '_expand_id' => 0,
+    'link' => 0,
+  ),
   'has_nocache_code' => false,
+  'version' => 'Smarty-3.1.19',
+  'unifunc' => 'content_5b038d19def7e7_27384949',
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5afbde6aca9bc4_53838077')) {function content_5afbde6aca9bc4_53838077($_smarty_tpl) {?><div class="col-md-4 links">
+<?php if ($_valid && !is_callable('content_5b038d19def7e7_27384949')) {function content_5b038d19def7e7_27384949($_smarty_tpl) {?><div class="col-md-4 links">
   <div class="row">
       <div class="col-md-6 wrapper">
       <h3 class="h3 hidden-sm-down">Products</h3>
-            <div class="title clearfix hidden-md-up" data-target="#footer_sub_menu_93618" data-toggle="collapse">
+            <div class="title clearfix hidden-md-up" data-target="#footer_sub_menu_44956" data-toggle="collapse">
         <span class="h3">Products</span>
         <span class="float-xs-right">
           <span class="navbar-toggler collapse-icons">
@@ -28,7 +35,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
           </span>
         </span>
       </div>
-      <ul id="footer_sub_menu_93618" class="collapse">
+      <ul id="footer_sub_menu_44956" class="collapse">
                   <li>
             <a
                 id="link-product-page-new-products-1"
@@ -43,7 +50,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     </div>
       <div class="col-md-6 wrapper">
       <h3 class="h3 hidden-sm-down">Our company</h3>
-            <div class="title clearfix hidden-md-up" data-target="#footer_sub_menu_39928" data-toggle="collapse">
+            <div class="title clearfix hidden-md-up" data-target="#footer_sub_menu_10887" data-toggle="collapse">
         <span class="h3">Our company</span>
         <span class="float-xs-right">
           <span class="navbar-toggler collapse-icons">
@@ -52,7 +59,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
           </span>
         </span>
       </div>
-      <ul id="footer_sub_menu_39928" class="collapse">
+      <ul id="footer_sub_menu_10887" class="collapse">
                   <li>
             <a
                 id="link-cms-page-1-2"
